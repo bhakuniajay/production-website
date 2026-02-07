@@ -1,0 +1,2 @@
+_592046b9e2dee7b5b6b8e8cf5734f049.himalayanreset.in.   CNAME
+_4ff0c5fde1b386ff1c2e5620f7ad0449.jkddzztszm.acm-validations.aws.  CNAME VALUE
